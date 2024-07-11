@@ -1,0 +1,89 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: #eee;
+    font-size: 18px;
+   
+    
+
+}
+.mainm{
+    position: relative;
+    padding: 20px;
+   margin-top: 10px;
+    margin-left: 25%;
+}
+.main-top h1{
+    margin-left: 2%;
+    font-size: 40px;
+    
+
+}
+.main-top i{
+    position: absolute;
+    right: 0;
+    margin: 10px 30px;
+    color: rgb(11, 109,100);
+    cursor: pointer;
+}
+.main-e{
+    display: flex;
+    margin-top: 20px;
+}
+.main-e .card{
+    width: 25%;
+    margin: 10px;
+    background: #fff;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
+.main-e .card h3{
+    margin: 10px;
+    text-transform: capitalize;
+   color: rgb(11, 10, 9);
+   font-weight: 100px;
+   font-size: 30px;
+}
+.main-e .card p{
+    font-size: 20px;
+}
+.main-e .card button{
+    background: orangered;
+    color: #fff;
+    padding: 7px 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+    cursor: pointer;
+
+}
+.main-e .card button:hover{
+    background:rgb(222, 81, 91);
+
+}
+
+.btn{
+    width: 150px;
+    height: 50px;
+    font-size: 1em;
+    color: rgb(189, 117, 10);
+    background: rgb(201, 190, 199);
+    margin-top: 2%;
+    margin-bottom: 0%;
+    margin: 6%;
+    
+}
+.btn a{
+    text-decoration: none;
+}
+.btn1{
+    width: 50px;
+    height: 30px;
+}
+h1{
+    font-style: italic;
+   
+    color: blue;
+    top:25px;
+}
